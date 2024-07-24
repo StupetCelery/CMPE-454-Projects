@@ -1,1 +1,1 @@
-# CMPE-454-Projects
+Projects I completed in my fourth year Computer Graphics course.
