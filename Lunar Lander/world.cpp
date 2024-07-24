@@ -80,7 +80,7 @@ void World::updateState( float elapsedTime )
         score = 1000;
       }
       else if (abs(lander->velocity.y) < 4 && abs(lander->velocity.x) < 2) { // So close!
-        score = 1000;
+        score = 250;
       }
       else if (abs(lander->velocity.y) < 10 && abs(lander->velocity.x) < 10) { // Hard landing
         score = 100;
